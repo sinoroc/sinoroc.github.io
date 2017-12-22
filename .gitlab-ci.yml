@@ -1,0 +1,16 @@
+#
+
+
+image: 'python:3.6'
+
+pages:
+  script:
+    - 'pip install tox'
+    - 'tox -e build'
+    - 'cp --recursive build public'
+  artifacts:
+    paths:
+      - 'public'
+
+
+# EOF
