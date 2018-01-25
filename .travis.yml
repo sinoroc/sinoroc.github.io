@@ -25,20 +25,9 @@ deploy:
     skip_cleanup: true
     on:
       branch: 'gh-pages'
-    target-branch: 'master'
+    target_branch: 'master'
     local_dir: 'build'
-    github_token:
-      secure: "\
-        ejB4ihCRZRyg2qJAGToFJNYeUv+MMeXK2jVymXdRvrkfkgmReevEICIaF5WxIoQKDv5MFT\
-        uivw1K56fzJjkBZBmwj2VYGyft7jgrAz6AQWmuhmFfMlSrcVlRnwN6eta/aiFzi3Gs+IcH\
-        7/GQSI8HxxrZ7cO0KSDIe42lfzDvqeaZeck3RKvTSIQGk3JNKs8r+746QWHUUJTmIbb0GQ\
-        2AO8U2p64U/FCucRAZpdikippczSEOivLSYgd5F3G9LlnKk7ClO98TBW7+mi0Q/reBgPj9\
-        kwigIgCkXfnBoY3RYwmrpuvhcMj+IwuHDpBXOY5AdeS4kb+Xay1BJasHbEhMqVQdACAJH3\
-        VaPPLXP6Dxmwcz/g0ImrtXLzo1CSa4pncnS+Ent28iUhqwzx+0rHKahJ9BuE3r+jI+rBEm\
-        tj824e91YYpIL1G1Zy16QdLNDcSyULPFitp30SUXLoeXb3URyv1YgpALg9G3xJGtasYgg2\
-        HaUSNrXVMbGfpcn2eEb1xRodh533edzYlUqRucRezIZKuOg6z2/bGko+x5UGN4QCAq5Tdw\
-        YXf8CffxwiaIMzh5paKvFojO7GromyQyc8WB/dxJR16qNvbaUkd2xRFVB7u8UjtFUsMC+C\
-        8sw9ks7eJ2XFHFPwaE6HIb+AL78DukZu2MfPz+wR4ZbKo8JTEXZh0="
+    github_token: '${GITHUB_TOKEN}'
 
 
 # EOF
