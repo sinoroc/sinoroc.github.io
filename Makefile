@@ -13,6 +13,7 @@ html_files := $(patsubst $(source_dir)/%.rst,$(build_dir)/%.html,$(rst_files))
 
 
 options := --no-doc-title --no-section-subtitles --strict --strip-comments
+options += --stylesheet=
 
 
 vpath %.rst $(source_dir)
@@ -31,7 +32,7 @@ nothing:
 
 
 $(build_dir)/%.html: %.rst | $(build_dir)
-	rst2html5.py $(options) $< $@
+	rst2sh5 $(options) $< $@
 
 
 $(build_dir):
