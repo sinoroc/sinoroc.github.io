@@ -5,10 +5,11 @@
 Sinoroc
 =======
 
-.. admonition:: Social coding profiles
+Social coding profiles
+======================
 
-    * `sinoroc on GitLab <https://gitlab.com/sinoroc>`_
-    * `sinoroc on GitHub <https://github.com/sinoroc>`_
+* `sinoroc on GitLab <https://gitlab.com/sinoroc>`_
+* `sinoroc on GitHub <https://github.com/sinoroc>`_
 
 
 Projects
