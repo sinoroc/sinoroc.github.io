@@ -36,10 +36,15 @@ rapids
 
 *REST APIs documented and sensible*
 
+Python package index:
+
+* `project rapids on pypi.python.org <https://pypi.python.org/pypi/rapids>`_
+* `project rapids on pypi.org <https://pypi.org/project/rapids/>`_
+
 Repositories:
 
-* `rapids on GitLab <https://gitlab.com/sinoroc/rapids>`_
-* `rapids on GitHub <https://github.com/sinoroc/rapids>`_
+* `source code for rapids on GitLab <https://gitlab.com/sinoroc/rapids>`_
+* `source code for rapids on GitHub <https://github.com/sinoroc/rapids>`_
 
 
 dotfiles
