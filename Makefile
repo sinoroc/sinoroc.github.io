@@ -17,7 +17,7 @@ css_files := $(patsubst $(source_dir)/%.scss,$(build_dir)/%.css,$(scss_files))
 
 
 rst2sh5_options := --strict --strip-comments
-rst2sh5_options += --no-doc-title --no-section-subtitles
+rst2sh5_options += --initial-header-level=2
 rst2sh5_options += --link-stylesheet --stylesheet-dirs='$(build_dir)'
 rst2sh5_options += --stylesheet-path='style.css'
 
