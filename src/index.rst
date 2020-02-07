@@ -15,6 +15,51 @@ Social coding profiles
 Projects
 ========
 
+deptree
+-------
+
+*Display installed Python projects as a tree of dependencies*
+
+Python package index:
+
+* `project deptree on pypi.org <https://pypi.org/project/deptree/>`_
+
+Repositories:
+
+* `source code for deptree on GitLab <https://gitlab.com/sinoroc/deptree>`_
+* `source code for deptree on GitHub <https://github.com/sinoroc/deptree>`_
+
+
+toolmaker
+---------
+
+*Make isolated single-file builds of Python tools using zapp, shiv, or pex*
+
+Python package index:
+
+* `project toolmaker on pypi.org <https://pypi.org/project/toolmaker/>`_
+
+Repositories:
+
+* `source code for toolmaker on GitLab <https://gitlab.com/sinoroc/toolmaker>`_
+* `source code for toolmaker on GitHub <https://github.com/sinoroc/toolmaker>`_
+
+
+zapp
+----
+
+*Build single-file Python applications easily*
+
+Python package index:
+
+* `project zapp on pypi.org <https://pypi.org/project/zapp/>`_
+
+Repositories:
+
+* `source code for zapp on GitLab <https://gitlab.com/sinoroc/zapp>`_
+* `source code for zapp on GitHub <https://github.com/sinoroc/zapp>`_
+
+
 kb
 --
 
