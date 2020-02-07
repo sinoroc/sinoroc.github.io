@@ -83,7 +83,6 @@ rapids
 
 Python package index:
 
-* `project rapids on pypi.python.org <https://pypi.python.org/pypi/rapids>`_
 * `project rapids on pypi.org <https://pypi.org/project/rapids/>`_
 
 Repositories:
