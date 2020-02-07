@@ -1,9 +1,6 @@
 #
 
 
-toxenvname ?= unknown
-
-
 source_dir := src
 build_dir := build
 
@@ -31,11 +28,6 @@ vpath %.scss $(source_dir)
 
 .PHONY: all
 all: $(css_files) $(html_files)
-
-
-.PHONY: nothing
-nothing:
-	true
 
 
 $(build_dir)/%.html: %.rst | $(build_dir)
