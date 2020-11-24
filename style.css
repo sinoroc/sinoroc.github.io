@@ -1,0 +1,13 @@
+body {
+  display: grid;
+  grid-template-areas: "head" "main" "foot";
+  grid-template-columns: 1fr minmax(auto, min-content); }
+
+footer {
+  grid-area: foot; }
+
+header {
+  grid-area: head; }
+
+main {
+  grid-area: main; }
