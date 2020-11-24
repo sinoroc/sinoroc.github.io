@@ -8,12 +8,29 @@ Sinoroc
 Social coding profiles
 ======================
 
-* `sinoroc on GitLab <https://gitlab.com/sinoroc>`_
 * `sinoroc on GitHub <https://github.com/sinoroc>`_
+* `sinoroc on GitLab <https://gitlab.com/sinoroc>`_
+* `sinoroc on StackOverflow <https://stackoverflow.com/users/11138259/sinoroc>`_
+* `sinoroc on Python Discuss <https://discuss.python.org/u/sinoroc/>`_
 
 
 Projects
 ========
+
+tox-poetry-dev-dependencies
+---------------------------
+
+*Tox plugin to help working with Poetry-based projects*
+
+Python package index:
+
+* `project tox-poetry-dev-dependencies on pypi.org <https://pypi.org/project/tox-poetry-dev-dependencies/>`_
+
+Repositories:
+
+* `source code for tox-poetry-dev-dependencies on GitHub <https://github.com/sinoroc/tox-poetry-dev-dependencies>`_
+* `source code for tox-poetry-dev-dependencies on GitLab <https://gitlab.com/sinoroc/tox-poetry-dev-dependencies>`_
+
 
 deptree
 -------
@@ -26,8 +43,8 @@ Python package index:
 
 Repositories:
 
-* `source code for deptree on GitLab <https://gitlab.com/sinoroc/deptree>`_
 * `source code for deptree on GitHub <https://github.com/sinoroc/deptree>`_
+* `source code for deptree on GitLab <https://gitlab.com/sinoroc/deptree>`_
 
 
 toolmaker
@@ -41,8 +58,8 @@ Python package index:
 
 Repositories:
 
-* `source code for toolmaker on GitLab <https://gitlab.com/sinoroc/toolmaker>`_
 * `source code for toolmaker on GitHub <https://github.com/sinoroc/toolmaker>`_
+* `source code for toolmaker on GitLab <https://gitlab.com/sinoroc/toolmaker>`_
 
 
 zapp
@@ -56,8 +73,8 @@ Python package index:
 
 Repositories:
 
-* `source code for zapp on GitLab <https://gitlab.com/sinoroc/zapp>`_
 * `source code for zapp on GitHub <https://github.com/sinoroc/zapp>`_
+* `source code for zapp on GitLab <https://gitlab.com/sinoroc/zapp>`_
 
 
 kb
@@ -67,13 +84,13 @@ kb
 
 Mirrors:
 
-* `kb on GitLab Pages <https://sinoroc.gitlab.io/kb>`_
 * `kb on GitHub Pages <https://sinoroc.github.io/kb>`_
+* `kb on GitLab Pages <https://sinoroc.gitlab.io/kb>`_
 
 Repositories:
 
-* `source code for kb on GitLab <https://gitlab.com/sinoroc/kb>`_
 * `source code for kb on GitHub <https://github.com/sinoroc/kb>`_
+* `source code for kb on GitLab <https://gitlab.com/sinoroc/kb>`_
 
 
 rapids
@@ -87,8 +104,8 @@ Python package index:
 
 Repositories:
 
-* `source code for rapids on GitLab <https://gitlab.com/sinoroc/rapids>`_
 * `source code for rapids on GitHub <https://github.com/sinoroc/rapids>`_
+* `source code for rapids on GitLab <https://gitlab.com/sinoroc/rapids>`_
 
 
 dotfiles
@@ -96,8 +113,8 @@ dotfiles
 
 Repositories:
 
-* `dotfiles on GitLab <https://gitlab.com/sinoroc/dotfiles>`_
 * `dotfiles on GitHub <https://github.com/sinoroc/dotfiles>`_
+* `dotfiles on GitLab <https://gitlab.com/sinoroc/dotfiles>`_
 
 
 ..
