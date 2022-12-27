@@ -6,7 +6,7 @@ docutils==0.14
 html5lib==1.0.1
 libsass==0.14.1
 rst2sh5==0.0.3
-setuptools==38.5.2
+setuptools==65.5.1
 six==1.11.0
 webencodings==0.5.1
 
